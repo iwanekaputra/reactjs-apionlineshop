@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center">Selamat datang di repository reactjs-apionlineshop 👋🏻</h1>
+<p></p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">website ini menyediakan documentasi api dari api online shop yang ada di repo <a href="https://github.com/iwanekaputra/laravelapi-onlineshop" target="_blank">ini</a>. untuk documentasinya bisa di akses disini <a href="https://reactjs-apionlineshop.netlify.app/">https://reactjs-apionlineshop.netlify.app/</a>
+</h4>
 
-## Available Scripts
+<p></p>
 
-In the project directory, you can run:
+<p></p>
 
-### `npm start`
+<h2 id="tentang">🎓 Tentang laravelapi</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p></p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2 id="fitur">✨ Fitur Tersedia</h2>
 
-### `npm test`
+- data products, orders, cart, authentication, size, user dan cara pemakaiannya
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   - admin
+        email : admin@gmail.com 
+        password : admin
 
-### `npm run build`
+<p></p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 id="demo">🏠 Halaman Demo</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+documentasi api dapat anda akses di [https://reactjs-apionlineshop.netlify.app/](https://reactjs-apionlineshop.netlify.app/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p></p>
 
-### `npm run eject`
+<h2 id="syarat">💾 Prasyarat yang Diperlukan</h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda menjalankan aplikasi wanime jika anda belum menginstall nya maka disarankan untuk menginstall nya terlebih dahulu
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- nodejs
+- Web Browser [Chrome, Firefox, Safari & Opera]
+- Internet [Karena menggunakan banyak CDN]
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p></p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2 id="download">🐱‍💻 Panduan Menjalankan & Install Aplikasi</h2>
 
-## Learn More
+Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP atau web server lain dan mempunyai setidaknya satu web browser yang terinstall di komputer anda.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone repository ini atau download di
+$ git clone https://github.com/iwanekaputra/reactjs-apionlineshop.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# jalankan aplikasi
+$ npm start
 
-### Code Splitting
+# Selamat aplikasi dapat anda nikmati di local!
+```
+<p></p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h2 id="dukungan">💌 Dukungan</h2>
 
-### Analyzing the Bundle Size
+Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p></p>
 
-### Making a Progressive Web App
+<a href="https://trakteer.id/iwanekaputra" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<p></p>
 
-### Advanced Configuration
+<h2 id="kontribusi">🤝 Kontribusi</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions, issues and feature requests sangat saya apresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk pull request dan membuat perubahan pada project ini.
 
-### Deployment
+Project ini diselesaikan secara team, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<p></p>
 
-### `npm run build` fails to minify
+<h2 id="lisensi">📝 Lisensi</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Copyright © 2023 IWAN EKA PUTRA
+
+---
+
+**<p align="center">Made with ❤️ by IWAN EKA PUTRA</p>**
